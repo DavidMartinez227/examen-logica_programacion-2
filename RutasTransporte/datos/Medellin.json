@@ -1,0 +1,23 @@
+[
+{
+  "nombre": "parque poblado",
+  "latitud": 6.210071610437122,
+  "longitud": -75.57096729476527,
+  "tiempoEstimado": 0,
+  "descripcion": "inicio"
+},
+{
+  "nombre": "Plazo Botero",
+  "latitud": 6.252035412978592,
+  "longitud": -75.56853216425797,
+  "tiempoEstimado": 30,
+  "descripcion": "museo al aire libre"
+},
+{
+  "nombre": "Parque de las luces",
+  "latitud": 6.246216043135388, 
+  "longitud": -75.57267858138476,
+  "tiempoEstimado": 20,
+  "descripcion": "Cercano al Centro Administrativo Departamental"
+}
+]
